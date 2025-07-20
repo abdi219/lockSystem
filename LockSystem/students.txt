@@ -1,0 +1,7 @@
+Abdullah Faisal,50,3.500000,Lahore,abdi134@gmail.com
+Hammad Tahir,39,2.900000,Dubai,abdi123@gmail.com
+Bisma Shahzad,29,3.200000,Islamabad,bisma199@gmail.com
+Abeeha Noor,19,3.900000,Rawalpindi,abeeha235@gmail.com
+Moosa Rashid,14,2.800000,Multan,moosa835@gmail.com
+Ali Ahmed,28,3.700000,Faisalabad,ali143@gmail.com
+Abdi,23,2.400000,Lahore,abdi194@gmail.com
